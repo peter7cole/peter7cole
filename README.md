@@ -1,7 +1,9 @@
 # Welcome!
 
-I am a software engineer with [Cisco Webex](https://www.webex.com/),
-focusing on React, Redux, and Node.js for web apps.
+I am a software engineer at Cisco developing 
+[Webex](https://web.webex.com/),
+focusing on React and Typescript for dynamic web apps.
 
-Technical interests for 2025 include Typescript, [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components),
-[Next.js](https://nextjs.org/), and [esbuild](https://esbuild.github.io/).
+Technical interests for 2025 include experimenting with 
+[esbuild](https://esbuild.github.io/), contributing to external 
+projects, and dabbling with [Lit](https://lit.dev/) Web Components.
